@@ -1,0 +1,4 @@
+Student Name	Average Grade
+Newson		89.00
+Fred		86.00
+Carol		91.33
